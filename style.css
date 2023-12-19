@@ -1,0 +1,314 @@
+.home-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .overlap-wrapper {
+  background-color: #ffffff;
+  overflow-x: hidden;
+  width: 1920px;
+  height: 2653px;
+}
+
+.home-page .overlap {
+  position: relative;
+  width: 1928px;
+  height: 2653px;
+}
+
+.home-page .blackwatch-tartan {
+  position: absolute;
+  width: 1920px;
+  height: 2651px;
+  top: 2px;
+  left: 0;
+}
+
+.home-page .text-wrapper {
+  position: absolute;
+  width: 838px;
+  height: 226px;
+  top: 222px;
+  left: 541px;
+  text-shadow: 0px 8px 4px #00000091;
+  font-family: "Kameron-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffbd15;
+  font-size: 89px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .navbar {
+  position: absolute;
+  width: 1928px;
+  height: 120px;
+  top: 0;
+  left: 0;
+}
+
+.home-page .overlap-group {
+  position: relative;
+  width: 1920px;
+  height: 120px;
+  background-image: url(./img/rectangle-1.png);
+  background-size: 100% 100%;
+}
+
+.home-page .THE-PIPES-DRUMS-OF {
+  position: absolute;
+  width: 688px;
+  height: 118px;
+  top: 2px;
+  left: 0;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffbd15;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .div {
+  position: absolute;
+  width: 432px;
+  height: 43px;
+  top: 39px;
+  left: 688px;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffbd15;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-2 {
+  position: absolute;
+  width: 392px;
+  height: 43px;
+  top: 39px;
+  left: 1166px;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffbd15;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-3 {
+  position: absolute;
+  width: 119px;
+  height: 43px;
+  top: 39px;
+  left: 1604px;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffbd15;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .more-tab {
+  position: absolute;
+  width: 74px;
+  height: 58px;
+  top: 31px;
+  left: 1778px;
+}
+
+.home-page .paypal {
+  position: absolute;
+  width: 530px;
+  height: 602px;
+  top: 552px;
+  left: 70px;
+}
+
+.home-page .image {
+  position: absolute;
+  width: 528px;
+  height: 528px;
+  top: 74px;
+  left: 0;
+}
+
+.home-page .text-wrapper-4 {
+  position: absolute;
+  width: 514px;
+  height: 54px;
+  top: 0;
+  left: 8px;
+  font-family: "Kameron-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 34px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .img {
+  position: absolute;
+  width: 895px;
+  height: 369px;
+  top: 2253px;
+  left: 512px;
+  object-fit: cover;
+}
+
+.home-page .image-2 {
+  position: absolute;
+  width: 550px;
+  height: 768px;
+  top: 597px;
+  left: 1322px;
+  object-fit: cover;
+}
+
+.home-page .promo {
+  position: absolute;
+  width: 562px;
+  height: 950px;
+  top: 543px;
+  left: 680px;
+}
+
+.home-page .overlap-2 {
+  position: relative;
+  width: 560px;
+  height: 950px;
+  background-color: #bfb5af;
+  border-radius: 80px;
+}
+
+.home-page .image-3 {
+  position: absolute;
+  width: 222px;
+  height: 404px;
+  top: 15px;
+  left: 167px;
+  object-fit: cover;
+}
+
+.home-page .image-4 {
+  position: absolute;
+  width: 319px;
+  height: 319px;
+  top: 618px;
+  left: 118px;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper-5 {
+  position: absolute;
+  width: 536px;
+  height: 162px;
+  top: 438px;
+  left: 10px;
+  font-family: "Kameron-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .socials {
+  position: absolute;
+  width: 962px;
+  height: 419px;
+  top: 1661px;
+  left: 441px;
+}
+
+.home-page .facebook {
+  position: absolute;
+  width: 481px;
+  height: 419px;
+  top: 0;
+  left: 0;
+}
+
+.home-page .image-5 {
+  position: absolute;
+  width: 292px;
+  height: 293px;
+  top: 0;
+  left: 93px;
+  object-fit: cover;
+}
+
+.home-page .p {
+  position: absolute;
+  width: 479px;
+  height: 125px;
+  top: 294px;
+  left: 0;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .insta {
+  position: absolute;
+  width: 330px;
+  height: 383px;
+  top: 1px;
+  left: 634px;
+}
+
+.home-page .image-6 {
+  position: absolute;
+  width: 300px;
+  height: 293px;
+  top: 0;
+  left: 15px;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper-6 {
+  position: absolute;
+  width: 328px;
+  height: 55px;
+  top: 328px;
+  left: 0;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-7 {
+  position: absolute;
+  height: 55px;
+  top: 167px;
+  left: 31px;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffbd15;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
